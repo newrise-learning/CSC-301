@@ -55,7 +55,10 @@
     <Compile Include="DebugLogger.cs" />
     <Compile Include="ILogger.cs" />
     <Compile Include="IModule.cs" />
+    <Compile Include="IRegionAdapter.cs" />
     <Compile Include="IService.cs" />
+    <Compile Include="IShell.cs" />
+    <Compile Include="IView.cs" />
     <Compile Include="LoggerFactory.cs" />
     <Compile Include="LogType.cs" />
     <Compile Include="ModuleItem.cs" />
@@ -63,6 +66,7 @@
     <Compile Include="ModuleLoader.cs" />
     <Compile Include="PrincipalAuthorization.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServiceAttribute.cs" />
     <Compile Include="ServiceRepository.cs" />
   </ItemGroup>
   <ItemGroup>

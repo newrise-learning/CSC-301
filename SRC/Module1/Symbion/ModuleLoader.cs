@@ -8,8 +8,10 @@ namespace Symbion {
 	public static class ModuleLoader {
 		private static List<IModule> _modules = new List<IModule>();
 		public static void Init() {
-			foreach (IModule module in _modules)
+			foreach (IModule module in _modules) {
 				module.Init();
+				module.AddServices();
+			}
 		}
 		public static void Exit() {
 			foreach (IModule module in _modules)

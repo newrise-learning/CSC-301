@@ -1,0 +1,12 @@
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.AssemblyReference.cache
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.Properties.Resources.resources
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.GenerateResource.cache
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.CoreCompileInputs.cache
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\bin\Debug\SymBank.Shared.dll
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\bin\Debug\SymBank.Shared.pdb
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\bin\Debug\Symbion.dll
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\bin\Debug\Symbion.pdb
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\bin\Debug\Symbion.dll.config
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.dll
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Shared\obj\Debug\SymBank.Shared.pdb

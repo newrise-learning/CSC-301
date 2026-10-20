@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization1", "Serializa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymBank.Banking", "SymBank.Banking\SymBank.Banking.csproj", "{64970FF0-8B66-499B-A5D8-37903CE931F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymBank", "..\Module2\SymBank\SymBank.csproj", "{8B2317A0-A944-4481-B132-377CF4DD719E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymBank.Shared", "SymBank.Shared\SymBank.Shared.csproj", "{15CEE1B6-EC12-4A19-A922-D19C5F36B597}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{64970FF0-8B66-499B-A5D8-37903CE931F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64970FF0-8B66-499B-A5D8-37903CE931F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64970FF0-8B66-499B-A5D8-37903CE931F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B2317A0-A944-4481-B132-377CF4DD719E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2317A0-A944-4481-B132-377CF4DD719E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2317A0-A944-4481-B132-377CF4DD719E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2317A0-A944-4481-B132-377CF4DD719E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15CEE1B6-EC12-4A19-A922-D19C5F36B597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CEE1B6-EC12-4A19-A922-D19C5F36B597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CEE1B6-EC12-4A19-A922-D19C5F36B597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CEE1B6-EC12-4A19-A922-D19C5F36B597}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

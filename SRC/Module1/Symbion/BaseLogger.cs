@@ -38,6 +38,9 @@ namespace Symbion {
 		public void Error(string message) {
 			Write(message, LogType.Error);
 		}
+		public void Failure(string message) {
+			Write(message, LogType.Error);
+		}
 		#endregion
 	}
 }
