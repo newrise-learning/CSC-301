@@ -8,7 +8,6 @@ C:\CSDEV\SRC\Module1\Symbion\obj\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\bin\Debug\Symbion.dll.config
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\bin\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\bin\Debug\Symbion.pdb
-C:\Symbolicon\CSC-301\SRC\Module1\Symbion\obj\Debug\Symbion.csproj.AssemblyReference.cache
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\obj\Debug\Symbion.csproj.CoreCompileInputs.cache
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\obj\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module1\Symbion\obj\Debug\Symbion.pdb

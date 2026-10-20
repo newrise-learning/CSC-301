@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="TabControlRegionAdapter.cs" />
     <Page Include="Shell.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -63,6 +64,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ListBoxRegionAdapter.cs" />
     <Compile Include="Shell.xaml.cs">
       <DependentUpon>Shell.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -99,8 +101,8 @@
       <Project>{64970ff0-8b66-499b-a5d8-37903ce931f9}</Project>
       <Name>SymBank.Banking</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\Module1\SymBank.Shared\SymBank.Shared.csproj">
-      <Project>{15cee1b6-ec12-4a19-a922-d19c5f36b597}</Project>
+    <ProjectReference Include="..\..\Module1\Symbank.Shared\SymBank.Shared.csproj">
+      <Project>{3025e126-c3ef-4838-9dbe-3539b2ec5022}</Project>
       <Name>SymBank.Shared</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Module1\Symbion\Symbion.csproj">

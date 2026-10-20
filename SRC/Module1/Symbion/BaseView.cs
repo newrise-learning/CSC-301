@@ -1,13 +1,8 @@
-﻿using Symbion;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 using System.Windows.Controls;
 
-namespace SymBank.Shared {
-	public class BaseView : UserControl, IView {
+namespace Symbion {
+	public partial class BaseView : UserControl, IView {
 		private static IShell _shell;
 		public static IShell Shell {
 			get {
@@ -18,7 +13,7 @@ namespace SymBank.Shared {
 
 		private string _region;
 		private object _header;
-		public virtual string Region {
+		public virtual string Region { 
 			get { return _region; }
 			set { _region = value; }
 		}
@@ -26,10 +21,13 @@ namespace SymBank.Shared {
 			get { return _header; }
 			set { _header = value; }
 		}
-		public virtual void Show() {
-			IRegionAdapter region = _shell.Regions[Region];
+		public void Close() {
+			IRegionAdapter region = Shell.Regions[Region];
+			region.Remove(this);
 		}
-		public virtual void Close() { }
-
+		public void Show() {
+			IRegionAdapter region = Shell.Regions["main"];
+			region.Add(this);
+		}
 	}
 }

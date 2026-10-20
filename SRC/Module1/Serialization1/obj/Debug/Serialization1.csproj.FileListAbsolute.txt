@@ -15,8 +15,8 @@ C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\bin\Debug\Serialization1.pdb
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\bin\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\bin\Debug\Symbion.pdb
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\bin\Debug\Symbion.dll.config
-C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.AssemblyReference.cache
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.CoreCompileInputs.cache
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.CopyComplete
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.exe
 C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.pdb
+C:\Symbolicon\CSC-301\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.AssemblyReference.cache

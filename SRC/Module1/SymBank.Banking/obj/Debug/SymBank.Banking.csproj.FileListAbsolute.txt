@@ -22,3 +22,5 @@ C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.pdb
 C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.dll.config
 C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\bin\Debug\Symbank.Shared.dll
+C:\Symbolicon\CSC-301\SRC\Module1\SymBank.Banking\bin\Debug\Symbank.Shared.pdb

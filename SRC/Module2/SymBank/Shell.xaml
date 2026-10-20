@@ -10,7 +10,15 @@
     <Grid x:Name="shellLayout">
 		<DockPanel>
 			<Menu x:Name="mbrMain" DockPanel.Dock="Top">
-				
+				<MenuItem
+					x:Name="mnuWebBrowser"
+					Header="_Web Browser"
+					Click="mnuWebBrowser_Click">
+					<MenuItem.Icon>
+						<Image Stretch="None"
+							   Source="Images/world.png" />
+					</MenuItem.Icon>
+				</MenuItem>
 			</Menu>
 			<ToolBar x:Name="tbrMain" DockPanel.Dock="Top">
 				

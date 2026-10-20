@@ -1,19 +1,9 @@
-﻿using SymBank.Shared;
+﻿
+using SymBank.Shared;
 using Symbion;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace SymBank {
 	/// <summary>
@@ -27,6 +17,10 @@ namespace SymBank {
 			get { return _regions; }
 		}
 
+		public object Status {
+			set { lblStatus.Content = value; }
+		}
+
 		public Shell() {
 			InitializeComponent();
 			_regions = new Dictionary<string, IRegionAdapter>();
@@ -35,11 +29,7 @@ namespace SymBank {
 			this.Add<IShell>();
 		}
 
-		public object Status {
-			set {
-				lblStatus.Content = value;
-			}
-		}
+
 		public void Failure(string message) {
 			MessageBox.Show(this, message, "Error",
 				MessageBoxButton.OK, MessageBoxImage.Error);
@@ -54,6 +44,10 @@ namespace SymBank {
 			ModuleLoader.Init();
 		}
 
-
+		private void mnuWebBrowser_Click(object sender, RoutedEventArgs e) {
+			WebBrowserView view = new WebBrowserView();
+			view.Open("http://www.google.com");
+			view.Show();
+		}
 	}
 }

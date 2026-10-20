@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{15CEE1B6-EC12-4A19-A922-D19C5F36B597}</ProjectGuid>
+    <ProjectGuid>{3025E126-C3EF-4838-9DBE-3539B2EC5022}</ProjectGuid>
     <OutputType>library</OutputType>
     <RootNamespace>SymBank.Shared</RootNamespace>
     <AssemblyName>SymBank.Shared</AssemblyName>
@@ -48,8 +48,6 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseView.cs" />
-    <Compile Include="ListBoxRegionAdapter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -64,7 +62,9 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="ShellRegions.cs" />
-    <Compile Include="TabControlRegionAdapter.cs" />
+    <Compile Include="WebBrowserView.xaml.cs">
+      <DependentUpon>WebBrowserView.xaml</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -79,6 +79,15 @@
       <Project>{2c2044bc-d106-4773-b82e-f5bec96803f8}</Project>
       <Name>Symbion</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="WebBrowserView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -59,6 +59,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Symbank.Shared\SymBank.Shared.csproj">
+      <Project>{3025e126-c3ef-4838-9dbe-3539b2ec5022}</Project>
+      <Name>SymBank.Shared</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Symbion\Symbion.csproj">
       <Project>{2c2044bc-d106-4773-b82e-f5bec96803f8}</Project>
       <Name>Symbion</Name>
