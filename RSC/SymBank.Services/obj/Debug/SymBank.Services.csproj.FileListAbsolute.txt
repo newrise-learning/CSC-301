@@ -1,0 +1,6 @@
+C:\CSDEV\SRC\Module5\SymBank.Services\bin\Debug\SymBank.Services.dll.config
+C:\CSDEV\SRC\Module5\SymBank.Services\bin\Debug\SymBank.Services.dll
+C:\CSDEV\SRC\Module5\SymBank.Services\bin\Debug\SymBank.Services.pdb
+C:\CSDEV\SRC\Module5\SymBank.Services\obj\Debug\ResolveAssemblyReference.cache
+C:\CSDEV\SRC\Module5\SymBank.Services\obj\Debug\SymBank.Services.dll
+C:\CSDEV\SRC\Module5\SymBank.Services\obj\Debug\SymBank.Services.pdb

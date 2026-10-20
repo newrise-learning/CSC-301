@@ -1,0 +1,11 @@
+C:\CSDEV\SRC\Module1\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.Loggers.dll.config
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.Loggers.dll
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.Loggers.pdb
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.CopyComplete
+C:\CSDEV\SRC\Module1\Symbion.Loggers\obj\Debug\Symbion.Loggers.dll
+C:\CSDEV\SRC\Module1\Symbion.Loggers\obj\Debug\Symbion.Loggers.pdb
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Symbion.Loggers\bin\Debug\Symbion.dll.config

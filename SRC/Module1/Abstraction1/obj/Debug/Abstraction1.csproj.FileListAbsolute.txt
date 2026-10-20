@@ -1,0 +1,14 @@
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Abstraction1.exe.config
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Abstraction1.exe
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Abstraction1.pdb
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Abstraction1\obj\Debug\Abstraction1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Abstraction1\obj\Debug\Abstraction1.csproj.CopyComplete
+C:\CSDEV\SRC\Module1\Abstraction1\obj\Debug\Abstraction1.exe
+C:\CSDEV\SRC\Module1\Abstraction1\obj\Debug\Abstraction1.pdb
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.Loggers.dll
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.Loggers.pdb
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.Loggers.dll.config
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Abstraction1\bin\Debug\Symbion.dll.config

@@ -1,0 +1,12 @@
+C:\CSDEV\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\Modules.xml
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\SymBank.Banking.exe.config
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\SymBank.Banking.exe
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\SymBank.Banking.pdb
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\SymBank.Banking\bin\Debug\Symbion.dll.config
+C:\CSDEV\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.CopyComplete
+C:\CSDEV\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.exe
+C:\CSDEV\SRC\Module1\SymBank.Banking\obj\Debug\SymBank.Banking.pdb

@@ -1,0 +1,11 @@
+C:\CSDEV\SRC\Module1\Dependency1\obj\Debug\Dependency1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Dependency1\obj\Debug\Dependency1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Dependency1.exe.config
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Dependency1.exe
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Dependency1.pdb
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Dependency1\obj\Debug\Dependency1.csproj.CopyComplete
+C:\CSDEV\SRC\Module1\Dependency1\obj\Debug\Dependency1.exe
+C:\CSDEV\SRC\Module1\Dependency1\obj\Debug\Dependency1.pdb
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Dependency1\bin\Debug\Symbion.dll.config

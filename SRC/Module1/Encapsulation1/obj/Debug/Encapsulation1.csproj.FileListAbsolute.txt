@@ -1,0 +1,11 @@
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Encapsulation1.exe.config
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Encapsulation1.exe
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Encapsulation1.pdb
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Encapsulation1\obj\Debug\Encapsulation1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Encapsulation1\obj\Debug\Encapsulation1.csproj.CopyComplete
+C:\CSDEV\SRC\Module1\Encapsulation1\obj\Debug\Encapsulation1.exe
+C:\CSDEV\SRC\Module1\Encapsulation1\obj\Debug\Encapsulation1.pdb
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Encapsulation1\bin\Debug\Symbion.dll.config
