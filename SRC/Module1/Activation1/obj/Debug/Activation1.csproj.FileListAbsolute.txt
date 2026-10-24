@@ -1,0 +1,12 @@
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Activation1.exe.config
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Activation1.exe
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Activation1.pdb
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Activation1\bin\Debug\Symbion.dll.config
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activation1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activation1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activati.4E2B0EEC.Up2Date
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activation1.exe
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activation1.pdb
+C:\CSDEV\SRC\Module1\Activation1\obj\Debug\Activation1.exe.config

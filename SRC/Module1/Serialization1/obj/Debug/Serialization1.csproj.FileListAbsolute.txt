@@ -1,0 +1,12 @@
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Serialization1.exe.config
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Serialization1.exe
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Serialization1.pdb
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module1\Serialization1\bin\Debug\Symbion.dll.config
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serialization1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serializ.FCAB12EE.Up2Date
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serialization1.exe
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serialization1.pdb
+C:\CSDEV\SRC\Module1\Serialization1\obj\Debug\Serialization1.exe.config
