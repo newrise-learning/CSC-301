@@ -12,7 +12,7 @@ namespace Symbion.Loggers {
 			}
 		}
 		public override void Write(string message, LogType logType) {
-			string text = $"\"{DateTime.UtcNow}\",\"{logType}\",\"{message}\"\r\n";
+			string text = "\"{DateTime.UtcNow}\",\"{logType}\",\"{message}\"\r\n";
 			File.AppendAllText(_filename, text);
 		}
 	}

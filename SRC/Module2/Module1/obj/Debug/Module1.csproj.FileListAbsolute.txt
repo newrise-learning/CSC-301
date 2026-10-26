@@ -18,9 +18,9 @@ C:\CSDEV\SRC\Module2\Module1\bin\Debug\SymBank.Banking.dll
 C:\CSDEV\SRC\Module2\Module1\bin\Debug\Symbion.dll
 C:\CSDEV\SRC\Module2\Module1\bin\Debug\SymBank.Banking.pdb
 C:\CSDEV\SRC\Module2\Module1\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.exe
+C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.pdb
 C:\CSDEV\SRC\Module2\Module1\bin\Debug\Symbion.dll.config
 C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.AssemblyReference.cache
 C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
-C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.Up2Date
-C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.exe
-C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.pdb
+C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.CopyComplete

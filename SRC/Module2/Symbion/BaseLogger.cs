@@ -20,7 +20,7 @@ namespace Symbion {
 		}
 
 		public virtual void Write(string message, LogType logType = LogType.Information) {
-			Console.WriteLine($"\"{Source}\", \"{logType}\", \"{message}\"");
+			Console.WriteLine("\"{Source}\", \"{logType}\", \"{message}\"");
 		}
 
 		public void Message(string message) { Write(message, LogType.Information); }
