@@ -8,7 +8,38 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800"
 			 Loaded="BaseView_Loaded">
-    <Grid>
-            
-    </Grid>
+	<ScrollViewer
+		VerticalScrollBarVisibility="Auto"
+		HorizontalScrollBarVisibility="Auto">
+		<Border CornerRadius="8"
+			BorderThickness="2"
+			BorderBrush="SteelBlue">
+			<StackPanel Margin="8">
+				<Label x:Name="txtCode">Code</Label>
+				<TextBox Text="" />
+				<Label>Customer Name</Label>
+				<TextBox Text="" />
+				<Label>Account Type</Label>
+				<ComboBox SelectedIndex="0">
+					<ComboBoxItem>Savings</ComboBoxItem>
+					<ComboBoxItem>FixedDeposit</ComboBoxItem>
+					<ComboBoxItem>Checking</ComboBoxItem>
+				</ComboBox>
+				<Label>Zip Code</Label>
+				<TextBox Text="" />
+				<Label>Opening Balance</Label>
+				<TextBox Text="" />
+				<StackPanel Margin="8"
+					HorizontalAlignment="Center"
+					Orientation="Horizontal">
+					<Button x:Name="btnAdd"
+							Content="OK"
+						Click="btnAdd_Click" />
+					<Button x:Name="btnCancel"
+							Content="Cancel"
+						Click="btnCancel_Click" />
+				</StackPanel>
+			</StackPanel>
+		</Border>
+	</ScrollViewer> 
 </fx:BaseView>

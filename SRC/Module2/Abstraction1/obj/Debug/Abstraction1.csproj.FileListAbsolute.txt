@@ -21,3 +21,14 @@ C:\CSDEV\SRC\Module2\Abstraction1\bin\Debug\Symbion.dll.config
 C:\CSDEV\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.csproj.AssemblyReference.cache
 C:\CSDEV\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache
 C:\CSDEV\SRC\Module2\Abstraction1\obj\Debug\Abstract.1EBD05D0.Up2Date
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Abstraction1.exe.config
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Abstraction1.exe
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Abstraction1.pdb
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Symbion.dll
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Symbion.pdb
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\bin\Debug\Symbion.dll.config
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.csproj.AssemblyReference.cache
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.csproj.CoreCompileInputs.cache
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.exe
+C:\Symbolicon\CSC-301\SRC\Module2\Abstraction1\obj\Debug\Abstraction1.pdb

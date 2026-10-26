@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModuleCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Modules>
+    <Module Name="SymBank.Banking.BankingModule" Path="SymBank.Banking.dll">
+      <Roles>
+		  <Role>Everyone</Role>
+		  <Role>Administrators</Role>
+		  <Role>Banking</Role>
+      </Roles>
+    </Module>
+  </Modules>
+</ModuleCatalog>

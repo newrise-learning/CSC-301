@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SymBank">
+  <DataContextMoniker Name="/SymBankDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b968b1b8-60bc-4991-be3c-cc5df3090c08" absoluteBounds="0.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/SymBankDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="53f4e6c2-946b-437c-87ff-5c5af991def4" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ccb9ee88-4657-4a73-a5f7-ba7124d83087" absoluteBounds="3.5, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/SymBankDataContext/Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc61fb47-9314-4396-8884-83f3e2203bea" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.07774983723958); (3.5 : 2.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SymBankDataContext/Account/Account_Transaction" />
+      <nodes>
+        <classShapeMoniker Id="b968b1b8-60bc-4991-be3c-cc5df3090c08" />
+        <classShapeMoniker Id="ccb9ee88-4657-4a73-a5f7-ba7124d83087" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.47637491861979); (3.5 : 1.47637491861979)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SymBankDataContext/Account/Account_Transaction1" />
+      <nodes>
+        <classShapeMoniker Id="b968b1b8-60bc-4991-be3c-cc5df3090c08" />
+        <classShapeMoniker Id="ccb9ee88-4657-4a73-a5f7-ba7124d83087" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
