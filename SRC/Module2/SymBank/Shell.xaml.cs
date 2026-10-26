@@ -18,15 +18,27 @@ using System.Windows.Shapes;
 namespace SymBank {
 	public partial class Shell : Window, IShell {
 		private Dictionary<string, IRegionAdapter> _regions;
+		private Dictionary<string, MenuBarBuilder> _menuBars;
+		private Dictionary<string, ToolBarBuilder> _toolBars;
+
 		public Dictionary<string, IRegionAdapter> Regions {
 			get { return _regions; }
 		}
 
+		public Dictionary<string, MenuBarBuilder> MenuBars { get { return _menuBars; } }
+		public Dictionary<string, ToolBarBuilder> ToolBars { get { return _toolBars; } }
+
+
+
 		public Shell() {
 			InitializeComponent();
+			_menuBars = new Dictionary<string, MenuBarBuilder>();
+			_toolBars = new Dictionary<string, ToolBarBuilder>();
 			_regions = new Dictionary<string, IRegionAdapter>();
 			_regions.Add(ShellRegions.SideRegion, new ListBoxRegionAdapter(sideRegion));
 			_regions.Add(ShellRegions.MainRegion, new TabControlRegionAdapter(mainRegion));
+			_menuBars.Add("main", new MenuBarBuilder(mbrMain));
+			_toolBars.Add("main", new ToolBarBuilder(tbrMain));
 			this.Add<IShell>();
 		}
 		public object Status { set { lblStatus.Content = value; } }

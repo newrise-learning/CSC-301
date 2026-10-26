@@ -17,4 +17,4 @@ C:\CSDEV\SRC\Module2\Symbion.Loggers\obj\Debug\Symbion.Loggers.pdb
 C:\CSDEV\SRC\Module2\Symbion.Loggers\bin\Debug\Symbion.dll.config
 C:\CSDEV\SRC\Module2\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.AssemblyReference.cache
 C:\CSDEV\SRC\Module2\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.CoreCompileInputs.cache
-C:\CSDEV\SRC\Module2\Symbion.Loggers\obj\Debug\Symbion.Loggers.csproj.CopyComplete
+C:\CSDEV\SRC\Module2\Symbion.Loggers\obj\Debug\Symbion..DEB8F7BC.Up2Date

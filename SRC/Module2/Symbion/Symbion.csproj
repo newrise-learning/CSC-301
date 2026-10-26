@@ -56,6 +56,7 @@
     <Compile Include="ListBoxRegionAdapter.cs" />
     <Compile Include="LoggerFactory.cs" />
     <Compile Include="LogType.cs" />
+    <Compile Include="MenuBarBuilder.cs" />
     <Compile Include="ModuleItem.cs" />
     <Compile Include="ModuleList.cs" />
     <Compile Include="ModuleLoader.cs" />
@@ -63,6 +64,7 @@
     <Compile Include="ServiceAttribute.cs" />
     <Compile Include="ServiceRepository.cs" />
     <Compile Include="TabControlRegionAdapter.cs" />
+    <Compile Include="ToolBarBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="PresentationCore" />

@@ -23,4 +23,4 @@ C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.pdb
 C:\CSDEV\SRC\Module2\Module1\bin\Debug\Symbion.dll.config
 C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.AssemblyReference.cache
 C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
-C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.CopyComplete
+C:\CSDEV\SRC\Module2\Module1\obj\Debug\Module1.csproj.Up2Date
