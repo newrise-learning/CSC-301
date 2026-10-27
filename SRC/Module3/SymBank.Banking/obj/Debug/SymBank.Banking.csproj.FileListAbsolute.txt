@@ -71,6 +71,9 @@ C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.g.re
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.Properties.Resources.resources
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.GenerateResource.cache
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.CoreCompileInputs.cache
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank..819D9676.Up2Date
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.dll
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.pdb
+C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\bin\Debug\SymBank.Data.dll
+C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\bin\Debug\SymBank.Data.pdb
+C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\bin\Debug\SymBank.Data.dll.config
+C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Banking\obj\Debug\SymBank.Banking.csproj.CopyComplete

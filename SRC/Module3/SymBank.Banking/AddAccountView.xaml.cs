@@ -1,4 +1,6 @@
-﻿using SymBank.Shared;
+﻿using SymBank.Banking.Services;
+using SymBank.Data;
+using SymBank.Shared;
 using Symbion;
 using System;
 using System.Collections.Generic;
@@ -20,8 +22,12 @@ namespace SymBank.Banking {
 	/// Interaction logic for AddAccountView.xaml
 	/// </summary>
 	public partial class AddAccountView : BaseView {
+		private IAccountController _accountController;
+		private Account _account; 
 		public AddAccountView() {
 			InitializeComponent();
+			DataContext = _account = new Account();
+			_accountController = ServiceRepository.Get<IAccountController>();
 			Region = ShellRegions.MainRegion;
 			Header = "New Account";
 		}
@@ -31,7 +37,17 @@ namespace SymBank.Banking {
         }
 
 		private void btnAdd_Click(object sender, RoutedEventArgs e) {
-
+			try {
+				_accountController.Add(_account);
+				Shell.Success("Account added successfully!");
+				//	Close();
+				_account = new Account();
+				DataContext = _account;
+			}
+			catch (Exception ex) {
+				Shell.Failure(
+					"Cannot add account. " + ex.Message);
+			}
 		}
 
 		private void btnCancel_Click(object sender, RoutedEventArgs e) {

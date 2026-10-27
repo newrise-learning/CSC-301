@@ -48,4 +48,4 @@ C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank.Shared.csproj
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.CoreCompileInputs.cache
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank.Shared.dll
 C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank.Shared.pdb
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank.Shared.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Shared\obj\Debug\SymBank..FF03EE7A.Up2Date

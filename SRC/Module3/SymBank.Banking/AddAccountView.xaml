@@ -16,19 +16,19 @@
 			BorderBrush="SteelBlue">
 			<StackPanel Margin="8">
 				<Label x:Name="txtCode">Code</Label>
-				<TextBox Text="" />
+				<TextBox Text="{Binding Code}" />
 				<Label>Customer Name</Label>
-				<TextBox Text="" />
+				<TextBox Text="{Binding Name}" />
 				<Label>Account Type</Label>
-				<ComboBox SelectedIndex="0">
+				<ComboBox SelectedIndex="{Binding Type}">
 					<ComboBoxItem>Savings</ComboBoxItem>
 					<ComboBoxItem>FixedDeposit</ComboBoxItem>
 					<ComboBoxItem>Checking</ComboBoxItem>
 				</ComboBox>
 				<Label>Zip Code</Label>
-				<TextBox Text="" />
+				<TextBox Text="{Binding ZipCode}" />
 				<Label>Opening Balance</Label>
-				<TextBox Text="" />
+				<TextBox Text="{Binding Balance}" />
 				<StackPanel Margin="8"
 					HorizontalAlignment="Center"
 					Orientation="Horizontal">

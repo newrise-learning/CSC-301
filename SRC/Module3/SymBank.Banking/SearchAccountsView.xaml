@@ -8,7 +8,37 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800"
 			 Loaded="BaseView_Loaded">
-    <Grid>
-            
-    </Grid>
+	<DockPanel>
+		<ToolBar DockPanel.Dock="Top">
+			<Label>Search</Label>
+			<TextBox x:Name="txtSearch"
+					 BorderBrush="SteelBlue" MinWidth="300">
+			</TextBox>
+			<Button x:Name="btnSearch"
+					Click="btnSearch_Click">
+				<Image Stretch="None" Source="Images/magnifier.png" />
+			</Button>
+			<Separator />
+			<Button x:Name="btnCancel"
+					Click="btnCancel_Click">
+				<Image Stretch="None" Source="Images/cancel.png" />
+			</Button>
+		</ToolBar>
+		<ListBox x:Name="lsbAccounts">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Border
+						Margin="4" Padding="4" Background="Azure"
+						BorderThickness="1" BorderBrush="SteelBlue">
+						<StackPanel Orientation="Horizontal">
+							<Label Content="{Binding Code}" Width="80" />
+							<Label Content="{Binding Name}" Width="260" />
+							<Label Content="{Binding Balance}" Width="80"
+								HorizontalContentAlignment="Right" />
+						</StackPanel>
+					</Border>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</DockPanel>
 </fx:BaseView>

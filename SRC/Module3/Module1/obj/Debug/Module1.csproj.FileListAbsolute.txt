@@ -47,6 +47,9 @@ C:\Symbolicon\CSC-301\SRC\Module3\Module1\bin\Debug\Symbion.pdb
 C:\Symbolicon\CSC-301\SRC\Module3\Module1\bin\Debug\Symbion.dll.config
 C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.csproj.AssemblyReference.cache
 C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
-C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.csproj.Up2Date
 C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.exe
 C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.pdb
+C:\Symbolicon\CSC-301\SRC\Module3\Module1\bin\Debug\SymBank.Data.dll
+C:\Symbolicon\CSC-301\SRC\Module3\Module1\bin\Debug\SymBank.Data.pdb
+C:\Symbolicon\CSC-301\SRC\Module3\Module1\bin\Debug\SymBank.Data.dll.config
+C:\Symbolicon\CSC-301\SRC\Module3\Module1\obj\Debug\Module1.csproj.CopyComplete

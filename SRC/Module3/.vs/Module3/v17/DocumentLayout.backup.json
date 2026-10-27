@@ -1,18 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Symbolicon\\CSC-301\\SRC\\Module3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F74768-8D38-46C6-868F-83BC7552728C}|SymBank2\\SymBank2.csproj|c:\\symbolicon\\csc-301\\src\\module3\\symbank2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4F74768-8D38-46C6-868F-83BC7552728C}|SymBank2\\SymBank2.csproj|solutionrelative:symbank2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SymBank||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3AA71C8-8DEC-4AEB-990C-989F200F44C7}|SymBank\\SymBank.csproj|c:\\symbolicon\\csc-301\\src\\module3\\symbank\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -20,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Symbolicon\\CSC-301\\SRC\\Module3\\SymBank2\\Program.cs",
-              "RelativeDocumentMoniker": "SymBank2\\Program.cs",
-              "ToolTip": "C:\\Symbolicon\\CSC-301\\SRC\\Module3\\SymBank2\\Program.cs",
-              "RelativeToolTip": "SymBank2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T08:05:29.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SymBank",
-              "DocumentMoniker": "C:\\Symbolicon\\CSC-301\\SRC\\Module3\\SymBank\\SymBank.csproj",
-              "RelativeDocumentMoniker": "SymBank\\SymBank.csproj",
-              "ToolTip": "C:\\Symbolicon\\CSC-301\\SRC\\Module3\\SymBank\\SymBank.csproj",
-              "RelativeToolTip": "SymBank\\SymBank.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-26T08:03:40.159Z",
-              "EditorCaption": ""
             }
           ]
         }
