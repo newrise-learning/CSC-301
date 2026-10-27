@@ -1,4 +1,5 @@
 ﻿using SymBank.Banking.Services;
+using SymBank.Data;
 using SymBank.Shared;
 using Symbion;
 using System;
@@ -27,25 +28,51 @@ namespace SymBank.Banking {
 			_accountController = ServiceRepository.Get<IAccountController>();
 			Region = ShellRegions.MainRegion;
 			Header = "Account Search";
+			SearchCommand = new AsyncDelegateCommand(
+				StartSearch, SearchCompleted);
 		}
 
+		private List<Account> _tempResults;
+
+		private void StartSearch(object paremter) {
+			_tempResults = _accountController.GetAccountsForName(txtSearch.Text);
+		}
+
+		private void SearchCompleted(Exception ex) {
+			if (ex != null) Shell.Failure(
+			   "Error searching for accounts.\n" + ex.Message);
+			else {
+				Shell.Status = string.Format(
+					"Search completed. {0} items found.",
+					_tempResults.Count);
+			}
+		}
 
 		private void BaseView_Loaded(object sender, RoutedEventArgs e) {
 
         }
 
-		private void btnSearch_Click(object sender, RoutedEventArgs e) {
+		private async void btnSearch_Click(object sender, RoutedEventArgs e) {
+			SearchCommand.Execute(null);
+			btnSearch.IsEnabled = false;
 			try {
-				lsbAccounts.ItemsSource =
-					_accountController.GetAccountsForName(txtSearch.Text);
+				var result = await _accountController.GetAccountsForNameAsync(txtSearch.Text);
+				lsbAccounts.ItemsSource = result;
 			}
 			catch (Exception ex) {
 				Shell.Failure("Search accounts failed." + ex.Message);
+			}
+			finally {
+				btnSearch.IsEnabled = true;
+				txtSearch.Focus();
 			}
 		}
 
 		private void btnCancel_Click(object sender, RoutedEventArgs e) {
 			Close();
 		}
+
+		public AsyncDelegateCommand SearchCommand { get; private set; }
+
 	}
 }

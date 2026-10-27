@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace SymBank.Banking.Controllers {
@@ -59,7 +60,13 @@ namespace SymBank.Banking.Controllers {
 						where account.Name.ToLower().Contains(name)
 						orderby account.Name
 						select account;
+			Thread.Sleep(6000);
 			return query.ToList();
+		}
+
+		public Task<List<Account>> GetAccountsForNameAsync(string name) {
+			var task = new Task<List<Account>>(() => GetAccountsForName(name));
+			task.Start(); return task;
 		}
 
 		public int Transfer(int source, int target, decimal amount) {

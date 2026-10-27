@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSDEV\\SRC\\Module1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|C:\\CSDEV\\SRC\\Module1\\symbion\\moduleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|solutionrelative:symbion\\moduleloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|c:\\csdev\\src\\module1\\symbion\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|solutionrelative:symbion\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|c:\\csdev\\src\\module1\\symbank.banking\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|solutionrelative:symbank.banking\\controllers\\bankingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|c:\\csdev\\src\\module1\\symbion\\serviceattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|solutionrelative:symbion\\serviceattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|c:\\csdev\\src\\module1\\symbank.banking\\modules.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|solutionrelative:symbank.banking\\modules.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|c:\\csdev\\src\\module1\\symbank.banking\\bankingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53BD5F3-B4DE-458F-8249-B2A9FDBECAA0}|SymBank.Banking\\SymBank.Banking.csproj|solutionrelative:symbank.banking\\bankingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104A0A43-C8BC-4B7F-98E7-1326866D1FE9}|Module1\\Module1.csproj|C:\\CSDEV\\SRC\\Module1\\module1\\modules.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{104A0A43-C8BC-4B7F-98E7-1326866D1FE9}|Module1\\Module1.csproj|solutionrelative:module1\\modules.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104A0A43-C8BC-4B7F-98E7-1326866D1FE9}|Module1\\Module1.csproj|C:\\CSDEV\\SRC\\Module1\\module1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104A0A43-C8BC-4B7F-98E7-1326866D1FE9}|Module1\\Module1.csproj|solutionrelative:module1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|C:\\CSDEV\\SRC\\Module1\\symbion\\moduleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|solutionrelative:symbion\\moduleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|C:\\CSDEV\\SRC\\Module1\\symbion\\modulelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E9D31A-FDAC-4C29-9D28-1EAEC005CD87}|Symbion\\Symbion.csproj|solutionrelative:symbion\\modulelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9D2256-52EE-4745-ABF7-5250DC44AA89}|Serialization1\\Serialization1.csproj|C:\\CSDEV\\SRC\\Module1\\serialization1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9D2256-52EE-4745-ABF7-5250DC44AA89}|Serialization1\\Serialization1.csproj|solutionrelative:serialization1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\ITransactionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SymBank.Banking\\Services\\ITransactionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\IAccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SymBank.Banking\\Services\\IAccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Symbion\\ServiceRepository.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ServiceRepository.cs",
+              "RelativeToolTip": "Symbion\\ServiceRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAABFwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:07:52.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceAttribute.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ServiceAttribute.cs",
+              "RelativeDocumentMoniker": "Symbion\\ServiceAttribute.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ServiceAttribute.cs",
+              "RelativeToolTip": "Symbion\\ServiceAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAABHwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:04:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modules.xml",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Modules.xml",
+              "RelativeDocumentMoniker": "SymBank.Banking\\Modules.xml",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Modules.xml",
+              "RelativeToolTip": "SymBank.Banking\\Modules.xml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA1wAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-24T13:57:49.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankingModule.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\BankingModule.cs",
+              "RelativeDocumentMoniker": "SymBank.Banking\\BankingModule.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\BankingModule.cs",
+              "RelativeToolTip": "SymBank.Banking\\BankingModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:37:11.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModuleLoader.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleLoader.cs",
+              "RelativeDocumentMoniker": "Symbion\\ModuleLoader.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleLoader.cs",
+              "RelativeToolTip": "Symbion\\ModuleLoader.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABHwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:21:34.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modules.xml",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Module1\\Modules.xml",
+              "RelativeDocumentMoniker": "Module1\\Modules.xml",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Module1\\Modules.xml",
+              "RelativeToolTip": "Module1\\Modules.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-10-24T13:45:04.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankingController.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Controllers\\BankingController.cs",
+              "RelativeDocumentMoniker": "SymBank.Banking\\Controllers\\BankingController.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Controllers\\BankingController.cs",
+              "RelativeToolTip": "SymBank.Banking\\Controllers\\BankingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:34:41.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITransactionController.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\ITransactionController.cs",
+              "RelativeDocumentMoniker": "SymBank.Banking\\Services\\ITransactionController.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\ITransactionController.cs",
+              "RelativeToolTip": "SymBank.Banking\\Services\\ITransactionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:31:46.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Module1\\Program.cs",
+              "RelativeDocumentMoniker": "Module1\\Program.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Module1\\Program.cs",
+              "RelativeToolTip": "Module1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:42:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAccountController.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\IAccountController.cs",
+              "RelativeDocumentMoniker": "SymBank.Banking\\Services\\IAccountController.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\SymBank.Banking\\Services\\IAccountController.cs",
+              "RelativeToolTip": "SymBank.Banking\\Services\\IAccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:31:04.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleItem.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleItem.cs",
+              "RelativeDocumentMoniker": "Symbion\\ModuleItem.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleItem.cs",
+              "RelativeToolTip": "Symbion\\ModuleItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:17:41.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModuleList.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleList.cs",
+              "RelativeDocumentMoniker": "Symbion\\ModuleList.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Symbion\\ModuleList.cs",
+              "RelativeToolTip": "Symbion\\ModuleList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:16:46.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSDEV\\SRC\\Module1\\Serialization1\\Program.cs",
+              "RelativeDocumentMoniker": "Serialization1\\Program.cs",
+              "ToolTip": "C:\\CSDEV\\SRC\\Module1\\Serialization1\\Program.cs",
+              "RelativeToolTip": "Serialization1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T13:13:45.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

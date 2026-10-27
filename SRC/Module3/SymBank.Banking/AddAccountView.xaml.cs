@@ -38,6 +38,10 @@ namespace SymBank.Banking {
 
 		private void btnAdd_Click(object sender, RoutedEventArgs e) {
 			try {
+				_account.Name.NotNullOrEmpty("Name");
+				_account.Name.Length.InRange("Length of name", 1, 30);
+				_account.ZipCode.Matches("Zip code", @"^\d{5}$");
+				_account.Balance.InRange("Balance", 100m, Decimal.MaxValue);
 				_accountController.Add(_account);
 				Shell.Success("Account added successfully!");
 				//	Close();
@@ -51,7 +55,7 @@ namespace SymBank.Banking {
 		}
 
 		private void btnCancel_Click(object sender, RoutedEventArgs e) {
-
+			Close();
 		}
 	}
 }
