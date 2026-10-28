@@ -1,0 +1,7 @@
+C:\CSDEV\SRC\Module5\Symbolicon.Data\bin\Debug\Symbolicon.Data.dll.config
+C:\CSDEV\SRC\Module5\Symbolicon.Data\bin\Debug\Symbolicon.Data.dll
+C:\CSDEV\SRC\Module5\Symbolicon.Data\bin\Debug\Symbolicon.Data.pdb
+C:\CSDEV\SRC\Module5\Symbolicon.Data\obj\Debug\Symbolicon.Data.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module5\Symbolicon.Data\obj\Debug\Symbolicon.Data.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module5\Symbolicon.Data\obj\Debug\Symbolicon.Data.dll
+C:\CSDEV\SRC\Module5\Symbolicon.Data\obj\Debug\Symbolicon.Data.pdb

@@ -3,6 +3,17 @@ using System.Reflection;
 
 namespace Symbion {
 	public static class DebugHelper {
+
+		public static void DisplayProperties(this object obj)
+        {
+			PropertyInfo[] props = obj.GetType().GetProperties();
+			foreach (PropertyInfo prop in props)
+            {
+				Console.WriteLine("{0}={1}",
+					prop.Name, prop.GetValue(obj, null));
+            }
+        }
+
 		public static void ShowLoadedAssemblies() {
 			AppDomain domain = AppDomain.CurrentDomain;
 			Assembly[] assemblies = domain.GetAssemblies();

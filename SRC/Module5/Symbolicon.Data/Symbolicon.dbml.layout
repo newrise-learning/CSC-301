@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Symbolicon">
+  <DataContextMoniker Name="/SymboliconDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0efd670f-e10b-4968-baed-ccdf49821715" absoluteBounds="0.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/SymboliconDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a39e7090-a80d-4ad5-9f9d-11255b6cffec" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="081a5c0f-e882-4b1a-913b-92b0b4d44197" absoluteBounds="3.5, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/SymboliconDataContext/Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d029313e-3057-4c45-b7df-2db1bac4c39d" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

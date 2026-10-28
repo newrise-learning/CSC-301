@@ -1,0 +1,7 @@
+C:\CSDEV\SRC\Module5\Parallel1\bin\Debug\Parallel1.exe.config
+C:\CSDEV\SRC\Module5\Parallel1\bin\Debug\Parallel1.exe
+C:\CSDEV\SRC\Module5\Parallel1\bin\Debug\Parallel1.pdb
+C:\CSDEV\SRC\Module5\Parallel1\obj\Debug\Parallel1.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module5\Parallel1\obj\Debug\Parallel1.csproj.CoreCompileInputs.cache
+C:\CSDEV\SRC\Module5\Parallel1\obj\Debug\Parallel1.exe
+C:\CSDEV\SRC\Module5\Parallel1\obj\Debug\Parallel1.pdb

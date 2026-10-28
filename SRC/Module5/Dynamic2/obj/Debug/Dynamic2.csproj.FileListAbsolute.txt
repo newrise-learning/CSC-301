@@ -1,0 +1,2 @@
+C:\CSDEV\SRC\Module5\Dynamic2\obj\Debug\Dynamic2.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module5\Dynamic2\obj\Debug\Dynamic2.csproj.CoreCompileInputs.cache

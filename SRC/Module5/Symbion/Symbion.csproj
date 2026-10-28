@@ -39,11 +39,11 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>Symbion.pfx</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Symbion.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseLogger.cs" />

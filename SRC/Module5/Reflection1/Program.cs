@@ -14,12 +14,11 @@ namespace Reflection1 {
 			t1.ShowTypeInfo();
 			t2.ShowTypeInfo();
 
-			var item = new LoanAccount(
+			var obj = new LoanAccount(
 				100, "ABC Trading", 50000m, 0.06m, 5);
+			Type t3 = obj.GetType();
 
-			Console.WriteLine(item.ToString());
-
-			PropertyInfo p1 = t1.GetProperty("Balance");
+			PropertyInfo p1 = t3.GetProperty("Balance");
 			if (p1 == null) {
 				Console.WriteLine("No balance property!");
 				return;
@@ -29,10 +28,10 @@ namespace Reflection1 {
 				return;
 			}
 
-			decimal balance = (decimal)p1.GetValue(item, null);
+			decimal balance = (decimal)p1.GetValue(obj, null);
 			balance -= 10000m;
-			p1.SetValue(item, balance, null);
-			Console.WriteLine(item.Balance);
+			p1.SetValue(obj, balance, null);
+			Console.WriteLine(obj.Balance);
 
 
 			Type[] parameterTypes = { };
@@ -45,9 +44,9 @@ namespace Reflection1 {
 				Console.WriteLine("Not string method.");
 				return;
 			}
-			Type[] parameters = { };
-			string result = (string)m1.Invoke(item, parameters);
+			string result = (string)m1.Invoke(obj, null);
 			Console.WriteLine(result);
 		}
 	}
+
 }

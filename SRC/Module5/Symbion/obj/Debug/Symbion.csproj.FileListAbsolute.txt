@@ -19,3 +19,10 @@ C:\Symbolicon\CSC-301\SRC\Module5\Symbion\obj\Debug\Symbion.csproj.AssemblyRefer
 C:\Symbolicon\CSC-301\SRC\Module5\Symbion\obj\Debug\Symbion.csproj.CoreCompileInputs.cache
 C:\Symbolicon\CSC-301\SRC\Module5\Symbion\obj\Debug\Symbion.dll
 C:\Symbolicon\CSC-301\SRC\Module5\Symbion\obj\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module5\Symbion\obj\Debug\Symbion.csproj.AssemblyReference.cache
+C:\CSDEV\SRC\Module5\Symbion\obj\Debug\Symbion.dll
+C:\CSDEV\SRC\Module5\Symbion\obj\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module5\Symbion\bin\Debug\Symbion.dll.config
+C:\CSDEV\SRC\Module5\Symbion\bin\Debug\Symbion.dll
+C:\CSDEV\SRC\Module5\Symbion\bin\Debug\Symbion.pdb
+C:\CSDEV\SRC\Module5\Symbion\obj\Debug\Symbion.csproj.CoreCompileInputs.cache
