@@ -1,0 +1,7 @@
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\obj\Debug\SymBank.Services.csproj.AssemblyReference.cache
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\obj\Debug\SymBank.Services.csproj.CoreCompileInputs.cache
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\bin\Debug\SymBank.Services.dll.config
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\bin\Debug\SymBank.Services.dll
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\bin\Debug\SymBank.Services.pdb
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\obj\Debug\SymBank.Services.dll
+C:\Symbolicon\CSC-301\SRC\Module4\SymBank.Services\obj\Debug\SymBank.Services.pdb

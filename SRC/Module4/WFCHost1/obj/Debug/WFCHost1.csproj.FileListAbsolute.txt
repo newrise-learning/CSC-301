@@ -1,0 +1,11 @@
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\WFCHost1.exe.config
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\WFCHost1.exe
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\WFCHost1.pdb
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\SymBank.Services.dll
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\SymBank.Services.pdb
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\bin\Debug\SymBank.Services.dll.config
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\obj\Debug\WFCHost1.csproj.AssemblyReference.cache
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\obj\Debug\WFCHost1.csproj.CoreCompileInputs.cache
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\obj\Debug\WFCHost1.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\obj\Debug\WFCHost1.exe
+C:\Symbolicon\CSC-301\SRC\Module4\WFCHost1\obj\Debug\WFCHost1.pdb

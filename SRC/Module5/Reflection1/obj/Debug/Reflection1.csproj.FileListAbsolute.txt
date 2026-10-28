@@ -1,0 +1,11 @@
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Reflection1.exe.config
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Reflection1.exe
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Reflection1.pdb
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Symbion.dll
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Symbion.pdb
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\bin\Debug\Symbion.dll.config
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\obj\Debug\Reflection1.csproj.AssemblyReference.cache
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\obj\Debug\Reflection1.csproj.CoreCompileInputs.cache
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\obj\Debug\Reflection1.csproj.CopyComplete
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\obj\Debug\Reflection1.exe
+C:\Symbolicon\CSC-301\SRC\Module5\Reflection1\obj\Debug\Reflection1.pdb

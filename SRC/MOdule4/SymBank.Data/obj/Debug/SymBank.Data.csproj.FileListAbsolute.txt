@@ -1,7 +1,0 @@
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\bin\Debug\SymBank.Data.pdb
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\obj\Debug\SymBank.Data.csproj.AssemblyReference.cache
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\obj\Debug\SymBank.Data.csproj.CoreCompileInputs.cache
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\obj\Debug\SymBank.Data.pdb
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\bin\Debug\SymBank.Data.dll.config
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\bin\Debug\SymBank.Data.dll
-C:\Symbolicon\CSC-301\SRC\Module3\SymBank.Data\obj\Debug\SymBank.Data.dll
